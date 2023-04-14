@@ -24,10 +24,13 @@ Which number of nodes in the hidden layers gives the best performance?
 
 --------------------------------------
 Train Loss Part(a)
+------------------
 ![Train Loss Part(a)](https://user-images.githubusercontent.com/101024664/232156591-f6ab88ed-995f-4bc4-9991-77d2ceca06a1.png)
 --------------------------------------
 Test Parity Plot Part(a)
+-------------------------------------
 ![Test Parity Plot Part(a)](https://user-images.githubusercontent.com/101024664/232156656-1e09d4b5-6909-4a28-86d5-b7ee68997068.png)
 --------------------------------------
 Train Loss Sigmoid Part(b)
+-------------------------------------
 ![Train Loss Sigmoid Part(b)](https://user-images.githubusercontent.com/101024664/232156720-6e2d0ce2-3a66-45d5-90ff-dd2828beff61.png)
